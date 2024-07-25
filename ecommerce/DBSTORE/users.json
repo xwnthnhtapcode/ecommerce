@@ -1,0 +1,334 @@
+[{
+  "_id": {
+    "$oid": "64366ea5f23d833124b6b961"
+  },
+  "email": "ducanh@gmail.com",
+  "phone": "098937828323",
+  "username": "Đức Anh",
+  "password": "$2b$10$zQzRi8ldDRq4FpeFxEl0OO./on59VH4oumTnP9iMBrdMkX5QMMLr6",
+  "role": "admin",
+  "status": "actived",
+  "createdAt": {
+    "$date": "2023-04-12T08:41:09.745Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:38:36.761Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64366eb8f23d833124b6b965"
+  },
+  "email": "vovanhung1@gmail.com",
+  "phone": "0939832323",
+  "username": "vovanhung",
+  "password": "$2b$10$BwUjUCZlu/iLf0UpRF8zLeZUxuctg.2I35jxifoCK8ZJyz/CTl0DO",
+  "role": "",
+  "status": "actived",
+  "createdAt": {
+    "$date": "2023-04-12T08:41:28.775Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:38:39.275Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64366ebcf23d833124b6b968"
+  },
+  "email": "vovanhung2@gmail.com",
+  "phone": "",
+  "username": "vovanhung",
+  "password": "$2b$10$SRRlA869bSqROeFZGMiV5OTj7HgMKVGk12eCmc5lUukh92J1Ro4AS",
+  "role": "",
+  "status": "noactive",
+  "createdAt": {
+    "$date": "2023-04-12T08:41:32.086Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:38:43.844Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643671223ee3ee96120ddea4"
+  },
+  "email": "vovanhung5@gmail.com",
+  "phone": "",
+  "username": "vovanhung",
+  "password": "$2b$10$8oTwKfOWlXPGNxoyUDv5tO3znZpPlmRxpcuTt1kIlgLQPcc7Cd6g2",
+  "role": "",
+  "status": "noactive",
+  "createdAt": {
+    "$date": "2023-04-12T08:51:46.486Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:51:46.486Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436714efa985fd303897ad8"
+  },
+  "email": "vovanhung6@gmail.com",
+  "phone": "0938283923",
+  "username": "vovanhung",
+  "password": "$2b$10$a4I.VJz8oECm9lEN2ZwZjOmtW5PPYtk9RZcaGilEgdJq12n05GbWa",
+  "role": "",
+  "status": "noactive",
+  "createdAt": {
+    "$date": "2023-04-12T08:52:30.237Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:52:30.237Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436723ffa985fd303897adc"
+  },
+  "email": "vovanhung7@gmail.com",
+  "phone": "0928399283",
+  "username": "",
+  "password": "$2b$10$DHJoORg6vCtfWm.MeqdO4.SyS10DbhLMojSg2BW85QyFVIQ9fvpAi",
+  "role": "admin",
+  "status": "noactive",
+  "createdAt": {
+    "$date": "2023-04-12T08:56:31.332Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:56:31.332Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643672abfa985fd303897ae3"
+  },
+  "email": "vovanhung8@gmail.com",
+  "phone": "0938287323",
+  "username": "vovanhung8",
+  "password": "$2b$10$yKUmYHr75dXzfq.r2vd3.uUbqtSiTYxIOj5RQRWqaL4E.psKjHBdm",
+  "role": "admin",
+  "status": "noactive",
+  "createdAt": {
+    "$date": "2023-04-12T08:58:19.792Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:58:19.792Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643672ddfa985fd303897ae7"
+  },
+  "email": "vovanhung9@gmail.com",
+  "phone": "0849349343",
+  "username": "vovanhung9@gmail.com",
+  "password": "$2b$10$RgqxX6w.uXHcnuV9C5uegOdNLAKXV774tXR4326BHSgAYIlYQCgbS",
+  "role": "admin",
+  "status": "noactive",
+  "createdAt": {
+    "$date": "2023-04-12T08:59:09.995Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T08:59:09.995Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6436735b85732fe714325e8f"
+  },
+  "email": "vovanhung10@gmail.com",
+  "phone": "0938273823",
+  "username": "vovanhung9",
+  "password": "$2b$10$jnlAiThy84mTxeGZiUmq5uIsWqXxmAs8n1vFuRzjd/QiYBkLbvu82",
+  "role": "admin",
+  "status": "actived",
+  "createdAt": {
+    "$date": "2023-04-12T09:01:15.623Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-12T09:01:15.623Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643c569470b014c2ec202539"
+  },
+  "email": "vovanhung77h12@gmail.com",
+  "phone": "1231231231",
+  "username": "sdfsdfds",
+  "password": "$2b$10$aEDomn5mRJBnrxwwKf4FwuJC8hqqFnpQhARxTGyCydxnaHuQRS9Fi",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-16T20:12:04.749Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-16T20:12:04.749Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643c56a370b014c2ec20253d"
+  },
+  "email": "sdfsdf@gmail.com",
+  "phone": "2342342342",
+  "username": "sdfsdf",
+  "password": "$2b$10$JGpPP3dubWm/2xnBQMx1UOe1tTPFszHpLKpnenAXtF9y1JIwMWhNS",
+  "role": "admin",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-16T20:12:19.851Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-16T20:12:19.851Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6449150a903624fa08f00d09"
+  },
+  "email": "vovanhung101@gmail.com",
+  "phone": "0938232323",
+  "username": "hungvo",
+  "password": "$2b$10$Nh15L9KSBzlygmQUTHKjjOn4HkWRWyaQ9mawNOsKpDO2LumwN.j8O",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-26T12:11:54.281Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T12:11:54.281Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64491f49903624fa08f00dc6"
+  },
+  "email": "admin@gmail.com",
+  "phone": "0938283923",
+  "username": "vovanhung",
+  "password": "$2b$10$HAathgnQy3LZkX2c4tJXcuJ55qzhphtpyI.NEfsRMdFvpcla9dsiO",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-26T12:55:37.978Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64491f7e903624fa08f00dcb"
+  },
+  "email": "client@gmail.com",
+  "phone": "0938283923",
+  "username": "vovanhung",
+  "password": "$2b$10$lkVrXppwZi.bMBBN2R/kfeb5i.QKkOe0tv1/.rjrIXyKzbH0PggNK",
+  "role": "isClient",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-26T12:56:30.535Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T05:13:08.176Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d3a9328b94618d8d5f67f"
+  },
+  "email": "vovanhung3@gmail.com",
+  "phone": "0382878232",
+  "username": "hunghung",
+  "password": "$2b$10$y5gxxeU7t0uhUpdGy9Ryo.9Ark9E8RHzPh8kUbYxse1/T9FBvNuNe",
+  "role": "isAdmin",
+  "status": "actived",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-04-29T15:41:07.644Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T15:41:07.644Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451ea2183a5345c0945ca4b"
+  },
+  "email": "canhvinh931@gmail.com",
+  "phone": "0372651619",
+  "username": "huy",
+  "password": "$2b$10$T84b5.WOFBCdYNIiPR/hXed.ckoI2zVBxkDDacN2KCZVb5Pe.sNLG",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-05-03T04:59:13.708Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T04:59:13.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6451f8d7090a1ac3c1b37179"
+  },
+  "email": "chjkien9x@gmail.com",
+  "phone": "0372651619",
+  "username": "Binh",
+  "password": "$2b$10$ZHGiNXBy3cLsl.fAI4WcmOpFvGHnsic1cUKq8AWWwQJjW19C7WmOK",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-05-03T06:01:59.809Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T06:01:59.809Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64522b1b1d6fbe8d3d4009a6"
+  },
+  "email": "thaivanha350@gmail.com",
+  "phone": "0372651619",
+  "username": "huy",
+  "password": "$2b$10$YmeuiZBe/tzg.kWDX79E9eQlhhwJbWCh3s.wHYfWjIhJiZJwtXgV2",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-05-03T09:36:27.711Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:36:27.711Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6455d633d18ed27a3ed95bce"
+  },
+  "email": "greenyshop.adm@gmail.com",
+  "phone": "0372651619",
+  "username": "huy",
+  "password": "$2b$10$HpNqqDLRjoIKT9AIQKW94.uziYelvu5D1qRtRjoE7qZWb.zBMZfRi",
+  "role": "isClient",
+  "status": "noactive",
+  "image": "https://zos.alipayobjects.com/rmsportal/ODTLcjxAfvqbxHnVXCYX.png",
+  "createdAt": {
+    "$date": "2023-05-06T04:23:15.925Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:23:15.925Z"
+  },
+  "__v": 0
+}]

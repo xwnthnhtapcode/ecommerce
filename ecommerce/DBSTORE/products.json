@@ -1,0 +1,213 @@
+[{
+  "_id": {
+    "$oid": "643a50d214b14bac804a6055"
+  },
+  "name": "Điện thoại iPhone 14 512GB",
+  "price": 10000000,
+  "description": "<div>dd</div>",
+  "image": "http://localhost:3100/uploads\\1682782304313-Apple-iPhone-12-PNG-Picture.png",
+  "category": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "createdAt": {
+    "$date": "2023-04-15T07:22:58.752Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T15:31:44.386Z"
+  },
+  "__v": 0,
+  "promotion": 1008
+},{
+  "_id": {
+    "$oid": "643a515d14b14bac804a6060"
+  },
+  "name": "Điện thoại iPhone 14 Pro Max 128GB",
+  "price": 8300200,
+  "description": "<div>iPhone 14 Pro Max một siêu phẩm trong giới smartphone được nhà Táo tung ra thị trường vào tháng 09/2022. Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng iPhone.</div>",
+  "image": "http://localhost:3100/uploads\\1683349136062-image-removebg-preview-11.png",
+  "category": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "createdAt": {
+    "$date": "2023-04-15T07:25:17.510Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:58:56.161Z"
+  },
+  "__v": 0,
+  "promotion": 0
+},{
+  "_id": {
+    "$oid": "643bedcf8e6c103d2fd5ea29"
+  },
+  "name": "Điện thoại iPhone 14 512GB",
+  "price": 5200000,
+  "description": "Tại sự kiện giới thiệu sản phẩm mới hàng năm đến từ nhà Apple thì chiếc iPhone 14 512GB cũng đã chính thức được cho ra mắt, đây được xem là thời điểm kết thúc mọi lời đồn đoán bấy lâu nay khi toàn bộ thông số đã đều lộ diện. Hứa hẹn sẽ trở thành một trong những sản phẩm thu hút nhiều sự quan tâm nhất trong năm 2022.",
+  "image": "http://localhost:3100/uploads\\1681649103014-Apple-iPhone-12-PNG-Picture.png",
+  "category": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "createdAt": {
+    "$date": "2023-04-16T12:45:03.033Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T08:31:47.202Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643befd48e6c103d2fd5ea53"
+  },
+  "name": "Điện thoại iPhone 14 256GB",
+  "price": 4400000,
+  "description": "Mới đây thì tại sự kiện ra mắt sản phẩm mới thường niên đến từ nhà Apple thì chiếc điện thoại iPhone 14 256GB cũng đã chính thức lộ diện, thiết bị được nâng cấp toàn diện từ camera cho đến hiệu năng và hầu hết là những thông số hàng đầu trong giới smartphone. ",
+  "image": "http://localhost:3100/uploads\\1681649620680-iPhone-14-plus-thumb-den-600x600.png",
+  "category": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "createdAt": {
+    "$date": "2023-04-16T12:53:40.694Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T08:32:31.347Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d038051fc7a906603da49"
+  },
+  "name": "SAMSUNG A76",
+  "price": 1800000,
+  "description": "<div>Đặc điểm nổi bật  Corsair K63 là bàn phím cơ kiểu rút gọn (Tenkeyless) dành cho game thủ. Tích hợp các phím riêng (Stop, Backward, Play/Pause, Forward) bên góc trái. Các phím chỉnh biên độ sáng đèn nền, Windows Lock và 3 phím điều chỉnh âm lượng bên phải. Trang bị đèn nền LED đỏ và Switch cơ Cherry MX Red nổi tiếng từ Đức. Kết nối đơn giản bằng dây cổng USB trực tiếp.</div>",
+  "image": "http://localhost:3100/uploads\\1683349185350-image-removebg-preview-11.png",
+  "category": {
+    "$oid": "643d030051fc7a906603da39"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T08:29:52.020Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:59:45.438Z"
+  },
+  "__v": 0,
+  "promotion": 0
+},{
+  "_id": {
+    "$oid": "643d3f9a39551eab93e8b419"
+  },
+  "name": "fffd",
+  "price": 10000,
+  "promotion": 7000,
+  "description": "<div>fff</div>",
+  "image": "http://localhost:3100/uploads\\1683349094593-S20 FE - Mint  (1).png",
+  "category": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "createdAt": {
+    "$date": "2023-04-17T12:46:18.735Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:58:14.660Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f9545dd2d72fcb98a4182"
+  },
+  "name": "demo08",
+  "price": 11111111,
+  "promotion": 7565656,
+  "quantity": 0,
+  "description": "<div>fff</div>",
+  "image": "http://localhost:3100/uploads\\1683349164632-image-removebg-preview-11.png",
+  "category": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "createdAt": {
+    "$date": "2023-04-19T07:16:21.557Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:59:24.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f9561dd2d72fcb98a418a"
+  },
+  "name": "demo08",
+  "price": 121121,
+  "promotion": 1111,
+  "quantity": 0,
+  "description": "<div>fsdfs</div>",
+  "image": "http://localhost:3100/uploads\\1683348963145-a57-1.png",
+  "category": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "createdAt": {
+    "$date": "2023-04-19T07:16:49.887Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:56:03.198Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643f959ddd2d72fcb98a41a5"
+  },
+  "name": "SAMSUNG A5",
+  "price": 1111111,
+  "promotion": 2222,
+  "quantity": 16,
+  "description": "<h3 style=\"box-sizing: border-box; margin: 20px 0px 15px; padding: 0px; font: bold 20px / 28px Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); outline: none; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\"><a href=\"https://www.thegioididong.com/dtdd/iphone-14-pro-max\" target=\"_blank\" title=\"Tham khảo điện thoại iPhone 14 Pro Max tại Thế Giới Di Động\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font: bold 20px / 18px Arial, Helvetica, sans-serif; outline: none;\">iPhone 14 Pro Max</a>&nbsp;một siêu phẩm trong giới smartphone được nhà Táo tung ra thị trường vào tháng 09/2022. Máy trang bị con chip Apple A16 Bionic vô cùng mạnh mẽ, đi kèm theo đó là thiết kế hình màn hình mới, hứa hẹn mang lại những trải nghiệm đầy mới mẻ cho người dùng iPhone.</h3><h3 style=\"box-sizing: border-box; margin: 20px 0px 15px; padding: 0px; font: bold 20px / 28px Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); outline: none; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Thiết kế cao cấp bền bỉ</h3><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">iPhone năm nay sẽ được thừa hưởng nét đặc trưng từ người anh<span>&nbsp;</span><a href=\"https://www.thegioididong.com/dtdd/iphone-13-pro-max-1tb\" target=\"_blank\" title=\"Tham khảo iPhone 13 Pro Max tại Thế Giới Di Động\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important;\">iPhone 13 Pro Max</a>, vẫn sẽ là khung thép không gỉ và mặt lưng kính cường lực kết hợp với tạo hình vuông vức hiện đại thông qua cách tạo hình phẳng ở các cạnh và phần mặt lưng.</p><div class=\"se-component se-image-container __se__float-justify\" contenteditable=\"false\"><figure style=\"margin: auto;\"><a><img alt=\"Thiết kế sang trọng - iPhone 14 Pro Max 128GB\" data-src=\"https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-041222-103221.jpg\" class=\" ls-is-cached lazyloaded\" title=\"Thiết kế sang trọng - iPhone 14 Pro Max 128GB\" src=\"https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-041222-103221.jpg\" style=\"box-sizing: border-box; margin: 20px auto; padding: 0px; border: 0px; display: block;\" data-image-link=\"https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-041222-103221.jpg\" data-proportion=\"true\" data-align=\"justify\" data-file-name=\"iphone-14-pro-max-041222-103221.jpg\" data-file-size=\"0\" data-origin=\",auto\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\" origin-size=\"1020,570\" data-index=\"0\"></a></figure></div><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Dòng Pro năm nay được ra mắt với nhiều tùy chọn màu sắc và trong đó nổi bật nhất có lẽ là phiên bản Deep Purple (tím), bởi vì đây là một màu mới nên mang lại độ nhận diện khá cao.<br><br>hoàn thành 02</p><div><br></div>",
+  "image": "http://localhost:3100/uploads\\1683349209214-image-removebg-preview-11.png",
+  "category": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "createdAt": {
+    "$date": "2023-04-19T07:17:49.943Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T05:00:09.343Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d1f62d1ae3427cfb20f50"
+  },
+  "name": "Sản phẩm 01",
+  "price": 150000,
+  "promotion": 120000,
+  "quantity": 1000,
+  "description": "<h3 style=\"box-sizing: border-box; margin: 20px 0px 15px; padding: 0px; font: bold 20px / 28px Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); outline: none; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Tại sự kiện Far Out 2022 ngoài iPhone Series thì Apple còn giới thiệu đến giới công nghệ Apple Watch Series 8. Thu hút được sự chú ý của công chúng, vấn đề hiệu năng của thiết bị này cũng được quan tâm đặc biệt. Trong bài viết này mình sẽ đưa ra đánh giá cho sản phẩm&nbsp;<a href=\"https://www.thegioididong.com/dong-ho-thong-minh/apple-watch-s8-41mm\" target=\"_blank\" title=\"Đồng hồ thông minh Apple Watch S8 GPS 41mm\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font: bold 20px / 18px Arial, Helvetica, sans-serif; outline: none;\">Apple Watch S8 GPS 41mm</a>&nbsp;sau hơn một thời trải nghiệm.&nbsp;</h3><h3 style=\"box-sizing: border-box; margin: 20px 0px 15px; padding: 0px; font: bold 20px / 28px Arial, Helvetica, sans-serif; color: rgb(51, 51, 51); outline: none; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Sở hữu phong cách thời thượng, vẻ ngoài chưa có nhiều sự đổi mới</h3><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Với những hình ảnh ban đầu của chiếc Apple Watch Series 8 thì không có gì khác biệt so với thế hệ trước. Nhưng khi cầm trên tay và trải nghiệm thì mình nhận thấy Apple đã có sự tinh chỉnh các chi tiết để thiết bị có vẻ ngoài hoàn hảo hơn.</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Phần viền xung quanh màn hình được làm mỏng và mặt kính được bo cong nhẹ tạo cảm giác tràn viền, màn hình lớn hơn khoảng<strong><span>&nbsp;</span>20%</strong><span>&nbsp;</span>so với&nbsp;<a href=\"https://www.thegioididong.com/dong-ho-thong-minh-apple-watch-s6\" target=\"_blank\" title=\"Xem thêm các mẫu Apple S6 tại Thế Giới Di Động\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important;\">Apple Watch Series 6</a>. Còn về các nút bấm thì vẫn nằm ở vị trí quen thuộc, cạnh bên phải là nút Digital Crown, mic và nút Side Button, còn bên trái là loa ngoài.</p><div class=\"se-component se-image-container __se__float-justify\" contenteditable=\"false\"><figure style=\"margin: auto;\"><a class=\"preventdefault\" href=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-17.jpg\" onclick=\"return false;\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important; cursor: default;\" alt=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-17.jpg\" data-image-link=\"image\"><img alt=\"Apple Watch S8 GPS 41mm - Thiết kế đặc trưng\" data-src=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-17.jpg\" class=\" ls-is-cached lazyloaded\" title=\"Apple Watch S8 GPS 41mm - Thiết kế đặc trưng\" src=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-17.jpg\" style=\"box-sizing: border-box; margin: 20px auto; padding: 0px; border: 0px; display: block;\" data-image-link=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-17.jpg\" data-proportion=\"true\" data-align=\"justify\" data-index=\"0\" data-file-name=\"apple-watch-s8-41mm-17.jpg\" data-file-size=\"0\" data-origin=\",auto\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\"></a></figure></div><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\"></p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Mặt sau của đồng hồ là cảm biến, chỗ sạc nam châm và hai nút bấm để tháo lắp dây đeo đồng hồ. Phiên bản Series 8 thì có 2 phiên bản khung viền là<span>&nbsp;</span><strong>hợp kim nhôm</strong><span>&nbsp;</span>và<span>&nbsp;</span><strong>thép</strong>, với nhiều màu sắc tạo ra nhiều sự lựa chọn hơn cho người dùng.</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Màn hình của<span>&nbsp;</span><a href=\"https://www.thegioididong.com/dong-ho-thong-minh-apple\" target=\"_blank\" title=\"Xem thêm các sản phẩm Apple Watch khác tại Thế Giới Di Động\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important;\">Apple Watch</a><span style=\"box-sizing: border-box; margin: 0px; padding: 0px; font-size: 16px;\">&nbsp;</span>thì khỏi chê, với tấm nền<span>&nbsp;</span><strong>OLED<span>&nbsp;</span></strong>cùng độ phân giải<span>&nbsp;</span><strong>430 x 352 pixels</strong><span>&nbsp;</span>cho các nội dung hiển thị sắc nét từng chi tiết, màu sắc sống động và độ tương phản cao. Màn hình được bảo vệ bằng mặt kính cường lực<span>&nbsp;</span><strong>Ion-X strengthened<span>&nbsp;</span></strong>giúp hạn chế trầy xước trong quá trình sử dụng.&nbsp;&nbsp;</p><div class=\"se-component se-image-container __se__float-justify\" contenteditable=\"false\"><figure style=\"margin: auto;\"><a class=\"preventdefault\" href=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-18.jpg\" onclick=\"return false;\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important; cursor: default;\" alt=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-18.jpg\" data-image-link=\"image\"><img alt=\"Apple Watch S8 GPS 41mm - Màn hình chất lượng\" data-src=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-18.jpg\" class=\" lazyloaded\" title=\"Apple Watch S8 GPS 41mm - Màn hình chất lượng\" src=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-18.jpg\" style=\"box-sizing: border-box; margin: 20px auto; padding: 0px; border: 0px; display: block;\" data-image-link=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-18.jpg\" data-proportion=\"true\" data-align=\"justify\" data-index=\"1\" data-file-name=\"apple-watch-s8-41mm-18.jpg\" data-file-size=\"0\" data-origin=\",auto\" data-size=\",\" data-rotate=\"\" data-rotatex=\"\" data-rotatey=\"\" data-percentage=\"auto,auto\"></a></figure></div><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\"></p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Khi mình sử dụng thì thấy nội dung được thể hiện vô cùng chi tiết, khi dùng ở nơi có ánh sáng mạnh thì hiện tượng bóng gương có xuất hiện nhưng không ảnh hưởng nhiều về khả năng hiển thị, những nội dung như văn bản, hình ảnh, biểu tượng, biểu đồ,... vẫn rất rõ ràng. Màn hình cảm ứng siêu mượt, mặt kính thì vẫn bám dấu vân tay, nhưng rất dễ làm sạch, chỉ cần khăn giấy mềm lau nhẹ là được.</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\">Công nghệ<span>&nbsp;</span><a href=\"https://www.thegioididong.com/dong-ho-thong-minh-man-hinh-luon-hien-thi\" title=\"Công nghệ màn hình luôn hiển thị (Always On Display) tại Thế Giới Di Động\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important;\">màn hình luôn hiển thị<span>&nbsp;</span></a>(<strong>Always On Display</strong>) theo mình đánh giá thì nó vô cùng tiện lợi. Khi đang làm việc mà cần xem giờ thì mình chỉ nhìn vào màn hình chứ không cần phải thực hiện thao tác giơ tay lên hoặc gõ vào mặt đồng hồ như trước đây.</p><p style=\"box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; margin-block: 0px; margin-inline: 0px; text-rendering: geometricprecision; font-size: 16px; line-height: 1.5; color: rgb(51, 51, 51); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; text-align: justify;\"><a class=\"preventdefault on\" href=\"https://cdn.tgdd.vn/Products/Images/7077/289804/apple-watch-s8-41mm-19.jpg\" onclick=\"return false;\" style=\"box-sizing: border-box; margin: 0px; padding: 0px; text-decoration: none; transition: all 0.2s ease 0s; color: rgb(47, 128, 237); font-size: 16px !important; cursor: default;\"><br class=\"Apple-interchange-newline\"><!--EndFragment--><br>\n<br></a></p>",
+  "image": "http://localhost:3100/uploads\\1682775906606-Apple-iPhone-12-PNG-Picture.png",
+  "category": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T13:45:06.633Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-29T13:45:06.633Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d202fd1ae3427cfb20f67"
+  },
+  "name": "IPHONE 10 284GB",
+  "price": 9838232,
+  "promotion": 232323,
+  "quantity": 3232,
+  "description": "<div>sdf</div>",
+  "image": "http://localhost:3100/uploads\\1682776111971-Apple-iPhone-12-PNG-Picture.png",
+  "category": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "createdAt": {
+    "$date": "2023-04-29T13:48:31.986Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:43:23.763Z"
+  },
+  "__v": 0
+}]

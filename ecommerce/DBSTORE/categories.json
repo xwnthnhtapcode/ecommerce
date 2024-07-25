@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "643cd2aed2f4cf93f513bdad"
+  },
+  "name": "APPLE",
+  "description": "APPLE",
+  "slug": "/APPLE",
+  "createdAt": {
+    "$date": "2023-04-17T05:01:34.465Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:39:41.208Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cd88879b4192efedda4e6"
+  },
+  "name": "SAMSUNG",
+  "description": "SAMSUNG",
+  "slug": "/SAMSUNG",
+  "createdAt": {
+    "$date": "2023-04-17T05:26:32.307Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:40:17.386Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643cd89a79b4192efedda4ee"
+  },
+  "name": "OPPO",
+  "description": "OPPO",
+  "slug": "/OPPO",
+  "createdAt": {
+    "$date": "2023-04-17T05:26:50.892Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:40:49.878Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d030051fc7a906603da39"
+  },
+  "name": "XIAOMI",
+  "description": "XIAOMI",
+  "slug": "/XIAOMI",
+  "createdAt": {
+    "$date": "2023-04-17T08:27:44.893Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:41:16.753Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d0f9dd8de2d2d1bac40f5"
+  },
+  "name": "PHỤ KIỆN",
+  "description": "PHỤ KIỆN",
+  "slug": "/PHỤ KIỆN",
+  "createdAt": {
+    "$date": "2023-04-29T12:37:49.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:41:34.101Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d0fb0d8de2d2d1bac40f9"
+  },
+  "name": "MÁY CŨ GIÁ RẺ",
+  "description": "MÁY CŨ GIÁ RẺ",
+  "slug": "/MÁY CŨ GIÁ RẺ",
+  "createdAt": {
+    "$date": "2023-04-29T12:38:08.566Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:42:05.516Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644d42848a43a72b5ea0cc86"
+  },
+  "name": "ĐỒNG HỒ",
+  "description": "ĐỒNG HỒ",
+  "slug": "/ĐỒNG HỒ",
+  "image": "http://localhost:3100/uploads\\1682784900916-medal.png",
+  "createdAt": {
+    "$date": "2023-04-29T16:15:00.924Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T04:42:30.526Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "643d26e480b67864908bad60"
+  },
+  "name": "Adidas",
+  "description": "ra mắt sản phẩm",
+  "createdAt": {
+    "$date": "2023-04-17T11:00:52.460Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T11:00:52.460Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643d28a680b67864908badcf"
+  },
+  "name": "Adidas ra mắt sản phẩm mới",
+  "description": "sản phẩm mới hoàn toàn",
+  "createdAt": {
+    "$date": "2023-04-17T11:08:22.113Z"
+  },
+  "updatedAt": {
+    "$date": "2023-04-17T11:08:22.113Z"
+  },
+  "__v": 0
+}]
